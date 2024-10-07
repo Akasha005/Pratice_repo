@@ -1,1 +1,2 @@
-# Pratice_repo
+# Practice
+This is my practice repository
